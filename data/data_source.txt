@@ -1,0 +1,4 @@
+Dataset: AutoScout Used Car Listings
+Source: Public dataset from AutoScout (Germany)
+Used for non-commercial, educational, and analytical purposes.
+Original data not redistributed in this repository.
